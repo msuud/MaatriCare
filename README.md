@@ -7,7 +7,7 @@ MaatriCare is an AI-driven maternal and child healthcare platform designed to pr
 🤖 AI-Powered Symptom Triage & Health Guidance
 📅 Personalized Pregnancy Tracking
 👩‍⚕️ Global Community connecting mothers wordlwide
-📱 Offline SMS support for remote accessibility
+📱 Offline SMS and multi-lingual support for remote accessibility
 
 💻 Tech Stack
 Frontend - React.js
@@ -23,4 +23,18 @@ Database - Firebase
 
 Screenshots :
 ![Screenshot 2025-04-06 190812](https://github.com/user-attachments/assets/0f5a4ef8-e525-47ac-9e8b-e73e3c69cbe8)
+![image](https://github.com/user-attachments/assets/4d2d34f1-5824-4ac6-9334-64b87ed39942)
+![image](https://github.com/user-attachments/assets/271553e1-4ad0-43f1-be03-47d89b15e259)
+![image](https://github.com/user-attachments/assets/671d6af0-8371-487a-8871-3263603c9699)
+![image](https://github.com/user-attachments/assets/e5764777-0386-4e90-ac6a-290914b8766c)
+![image](https://github.com/user-attachments/assets/fa0c2130-41fc-4495-b6cf-9d2170bf0b99)
+![WhatsApp Image 2025-04-06 at 19 15 21_567850f9](https://github.com/user-attachments/assets/169ae192-7128-4668-9770-161a69195edd)
+![WhatsApp Image 2025-04-06 at 19 15 21_9a6b93c2](https://github.com/user-attachments/assets/f511e9e0-11ae-403e-84db-1e172661d8d1)
+
+
+
+
+
+
+
 
