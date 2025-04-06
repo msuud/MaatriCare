@@ -28,8 +28,9 @@ MaatriCare is an AI-driven maternal and child healthcare platform designed to pr
 ![image](https://github.com/user-attachments/assets/671d6af0-8371-487a-8871-3263603c9699)
 ![image](https://github.com/user-attachments/assets/e5764777-0386-4e90-ac6a-290914b8766c)
 ![image](https://github.com/user-attachments/assets/fa0c2130-41fc-4495-b6cf-9d2170bf0b99)
-![WhatsApp Image 2025-04-06 at 19 15 21_9a6b93c2](https://github.com/user-attachments/assets/f511e9e0-11ae-403e-84db-1e172661d8d1)
-![WhatsApp Image 2025-04-06 at 19 15 21_9a6b93c2](https://github.com/user-attachments/assets/d2d2aef2-2c64-4d7c-87b4-5ece8b7d207a)
+![WhatsApp Image 2025-04-06 at 19 15 21_9a6b93c2](https://github.com/user-attachments/assets/878040e9-3569-4383-850a-30d24c8b6f00)
+![WhatsApp Image 2025-04-06 at 19 15 21_877fe0e4](https://github.com/user-attachments/assets/eacdf012-8e0f-4e9d-96ad-87c25b691724)
+
 
 
 
