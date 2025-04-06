@@ -22,7 +22,7 @@ MaatriCare is an AI-driven maternal and child healthcare platform designed to pr
 4. Run the Application using npm start
 
 ##Screenshots for preview:
-![Screenshot 2025-04-06 190812](https://github.com/user-attachments/assets/0f5a4ef8-e525-47ac-9e8b-e73e3c69cbe8 = 300x300)
+![Screenshot 2025-04-06 190812](https://github.com/user-attachments/assets/55974de8-4f5a-4b4e-88e1-8538af8da166 | width=200)
 ![image](https://github.com/user-attachments/assets/4d2d34f1-5824-4ac6-9334-64b87ed39942)
 ![image](https://github.com/user-attachments/assets/271553e1-4ad0-43f1-be03-47d89b15e259)
 ![image](https://github.com/user-attachments/assets/671d6af0-8371-487a-8871-3263603c9699)
