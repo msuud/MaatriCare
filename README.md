@@ -1,4 +1,4 @@
-🌸 MaatriCare — AI-Powered Maternal & Child Health Support System
+# 🌸MaatriCare — AI-Powered Maternal Health Support System
 Infant mortality remains a significant public health challenge worldwide, especially in underserved regions where limited healthcare access, socioeconomic barriers, and low maternal awareness prevent timely interventions.
 
 MaatriCare is an AI-driven maternal and child healthcare platform designed to provide comprehensive prenatal and postnatal support through both a web-based interface and an offline SMS-based system, ensuring accessibility even for users without smartphones or internet access.
@@ -28,7 +28,7 @@ MaatriCare is an AI-driven maternal and child healthcare platform designed to pr
 ![image](https://github.com/user-attachments/assets/671d6af0-8371-487a-8871-3263603c9699)
 ![image](https://github.com/user-attachments/assets/e5764777-0386-4e90-ac6a-290914b8766c)
 ![image](https://github.com/user-attachments/assets/fa0c2130-41fc-4495-b6cf-9d2170bf0b99)
-![WhatsApp Image 2025-04-06 at 19 15 21_567850f9](https://github.com/user-attachments/assets/169ae192-7128-4668-9770-161a69195edd) | height=200
+![WhatsApp Image 2025-04-06 at 19 15 21_567850f9](https://github.com/user-attachments/assets/169ae192-7128-4668-9770-161a69195edd) 
 ![WhatsApp Image 2025-04-06 at 19 15 21_9a6b93c2](https://github.com/user-attachments/assets/f511e9e0-11ae-403e-84db-1e172661d8d1)
 
 
