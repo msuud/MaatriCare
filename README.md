@@ -3,11 +3,12 @@ Infant mortality remains a significant public health challenge worldwide, especi
 
 MaatriCare is an AI-driven maternal and child healthcare platform designed to provide comprehensive prenatal and postnatal support through both a web-based interface and an offline SMS-based system, ensuring accessibility even for users without smartphones or internet access.
 
-🌟 Key Features
-🤖 AI-Powered Symptom Triage & Health Guidance
-📅 Personalized Pregnancy Tracking
-👩‍⚕️ Global Community connecting mothers wordlwide
-📱 Offline SMS and multi-lingual support for remote accessibility
+Key Features
+_________________________________________________________________
+AI-Powered Symptom Triage & Health Guidance
+Personalized Pregnancy Tracking
+Global Community connecting mothers wordlwide
+Offline SMS and multi-lingual support for remote accessibility
 
 💻 Tech Stack
 Frontend - React.js
