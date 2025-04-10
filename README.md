@@ -3,6 +3,17 @@ Infant mortality remains a significant public health challenge worldwide, especi
 
 MaatriCare is an AI-driven maternal and child healthcare platform designed to provide comprehensive prenatal and postnatal support through both a web-based interface and an offline SMS-based system, ensuring accessibility even for users without smartphones or internet access.
 
+## SMS Functionality (Offline Support)
+We used MacroDroid on an Android phone to enable offline SMS support.
+### How it works:
+- A user sends an SMS to our project’s dedicated phone number.
+- MacroDroid is set to trigger when an SMS is received.
+- It captures the SMS text and sends it as a prompt to the Gemini API using an HTTP request.
+- The Gemini API processes the input and returns a response (advice, guidance, or emergency suggestion).
+- MacroDroid reads this response and sends it back to the user via SMS.
+- This enables AI-powered health support through simple SMS, even without internet access.
+
+
 ## Key Features
 - AI-Powered Symptom Triage & Health Guidance
 - Personalized Pregnancy Tracking
